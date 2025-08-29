@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Spring Boot App with Webhook + SQL Submission"
 git branch -M main
-git remote add origin https:https://github.com/Md-Shamil/Q2/tree/main
+git remote add origin https:https://github.com/Md-Shamil/Q2/tree/main.git
 git push -u origin main
